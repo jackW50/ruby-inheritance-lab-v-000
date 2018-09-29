@@ -24,3 +24,9 @@ steve.learn(some_knowledge)
 steve.learn(some_knowledge)
 
 puts steve.knowledge
+
+jack = Student.new
+jack.first_name = "Jack"
+jack.last_name = "Werenski"
+puts "#{jack.first_name} just learned '#{jack.knowledge.first}' from Mr. #{avi.last_name}!"
+
