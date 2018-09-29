@@ -22,3 +22,5 @@ puts "Steve just learned this important knowledge: '#{steve.knowledge.last}' fro
 steve.learn(some_knowledge)
 steve.learn(some_knowledge)
 steve.learn(some_knowledge)
+
+steve.
